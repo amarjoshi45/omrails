@@ -1,6 +1,13 @@
 
 $btnPrimaryBackground: green;
 
+$navbarBackground: black;
+$navbarBackgroundHighlight: black;
+$navbarLinkColorHover: white;
+$navbarText: white;
+
+
+
 /*
 $navbarBackgroundHighlight: white;
 $navbarBackground: white;
@@ -26,9 +33,10 @@ padding-top: 60px;
 .footer{
 
 
-	margin-top: 50px;
+	margin-top: 60px;
 	color: $grayLight;
 	a {
 		color: $gray;
 	}
+
 }
